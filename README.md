@@ -8,9 +8,8 @@
 
 ---
 
-## 🚀 About Me
-
-✨ Passionate about transforming data into meaningful insights.
+##  About Me
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Passionate+about+transforming+data+into+meaningful+insights.;Aspiring+Data+Engineer;Exploring+SAP)
 
 🎯 Currently working on:
 - Higher Education Analytics Dashboard
